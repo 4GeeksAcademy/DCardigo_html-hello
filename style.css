@@ -12,51 +12,48 @@ h1{
     text-align: center;
     font-size: 60px;
     margin: 0px;
-
 }
 
 
-.caja-total{
+.totalBox{
 
     background-color:white;
-    margin: 40px 500px;
-    
-   
+    margin: 40px 500px;  
 }
 
 
      /* BOX 1 */
 
-.caja1{
+.top{
+
     padding: 15px 15px;
     display: inline-block;
     width: 379px;
-   
-
- 
 }
 
-.icono{
+.icon{
+
     width: 30px;
     float: right;
-    padding-top: 6px;
-   
+    padding-top: 6px;   
 }
 
 .racoon{
+
     width: 30px;
     float: left;
     padding-top: 5px;
 }
 
-.nombre{
+.name{
 
     margin: 0px 0px 0px 15px;
     display: inline;
     font-family: 'helvetica';
 }
 
-.lugar{
+.place{
+
     margin: 5px 0px 0px 44px;
     font-family: 'helvetica';
 }
@@ -66,7 +63,7 @@ h1{
 
      /* BOX 2 */
 
-.caja2{
+.middle{
 
     margin: 5px 0px;
   
@@ -74,7 +71,7 @@ h1{
     
 }
 
-.mapache{
+.photo{
 
     width: 100%;
     box-sizing: content-box;
@@ -84,36 +81,34 @@ h1{
      /* BOX 3 */
 
 
-.caja3{
+.bottom{
    
     padding: 0px 15px;
-    /* width: 100%; */
-
-
 }
 
-.iconos-base{ 
+.icons-bottom{ 
     
     display: inline-block;
 }
 
-.etiqueta{
+.tag{
+
     width: 20px;
-    float: right;
-   
+    float: right;  
 }
 
-.corazon{
-    width: 20px;
-    padding-left: 5px;
+.heart{
 
-}
-.bocadillo{
     width: 20px;
     padding-left: 5px;
-
 }
-.avion{
+.sandw{
+
+    width: 20px;
+    padding-left: 5px;
+}
+.plane{
+    
     width: 20px;
     padding-left: 5px;
 
@@ -125,9 +120,8 @@ h1{
     font-family: 'helvetica';
 }
 
-.texto{
+.text{
 
     padding: 15px 0px;
-    font-family: 'helvetica';
-   
+    font-family: 'helvetica';  
 }
